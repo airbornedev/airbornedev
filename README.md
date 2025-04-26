@@ -1,3 +1,5 @@
+# Bio
+
 Greetings, 👋🏾
 
 I'm a Field Artillery Officer in the United States Army, pursuing my master's in Computer Science at Alcorn State University in Lorman, MS. My thesis research interests are misinformation, machine learning, social media, and the information age! Within these fields, I work on projects related to improving automation detection methods for false information globally, examining human behaviors on social media, and analyzing the socioeconomic impacts of false information.
