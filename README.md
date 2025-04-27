@@ -1,4 +1,7 @@
-# Bio
+#### Bio
+
+# Richard Walker
+## Army Veteran. Computer Science Graduate Student. Inspiring Software Engineer. 
 
 Greetings, 👋🏾
 
@@ -9,4 +12,7 @@ My thesis research examined the dangers of misinformation on modern-day media pl
 In my free time, I like to spend time with family, DIY projects, and spend my days trying to beat the stock market.
 
 Interests:
-Cars, Rogue-likes, Sneakers, and Fitness
+	🚗 Cars
+	☠️ Rogue-likes
+	👟 Sneakers
+	💪🏾 Fitness
