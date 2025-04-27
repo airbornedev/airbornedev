@@ -1,7 +1,7 @@
 #### Bio
 
-# Richard Walker
-## Army Veteran. Computer Science Graduate Student. Inspiring Software Engineer. 
+# RICHARD WALKER JR.
+### Army Veteran. Computer Science Graduate Student. Inspiring Software Engineer. 
 
 Greetings, 👋🏾
 
