@@ -11,7 +11,7 @@ My thesis research examined the dangers of misinformation on modern-day media pl
 
 In my free time, I like to spend time with family, DIY projects, and spend my days trying to beat the stock market.
 
-Interests:
+My Interests:
 	
 🚗 Cars
  
