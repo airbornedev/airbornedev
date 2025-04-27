@@ -6,4 +6,10 @@ I'm a Field Artillery Officer in the United States Army, pursuing my master's in
 
 My thesis research examined the dangers of misinformation on modern-day media platforms and how to utilize machine learning methods/models to identify the accuracy, scalability, and adaptability of auto-detection systems and processes for misinformation. The research highlights the importance of detecting, neutralizing, and destroying misinformation, deterring bad actors, ramifications of false information, and developing/researching advanced, modern detection solutions.
 
-In my free time, I like to spend time with family, interact with like-minded individuals, and spend my days trying to beat the stock market.
+In my free time, I like to spend time with family, DIY projects, and spend my days trying to beat the stock market.
+
+Interests:
+Cars
+Rogue-likes
+Sneakers
+Fitness
